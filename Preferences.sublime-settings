@@ -1,6 +1,7 @@
 {
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/User/SublimeLinter/FireCode (SL).tmTheme",
+	"default_line_ending": "unix",
 	"detect_indentation": false,
 	"font_face": "Ubuntu Mono",
 	"font_size": 12,
